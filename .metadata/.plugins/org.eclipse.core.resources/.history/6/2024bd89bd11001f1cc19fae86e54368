@@ -1,0 +1,5 @@
+package com.securityconepts.controller;
+
+public class WelcomeController {
+
+}

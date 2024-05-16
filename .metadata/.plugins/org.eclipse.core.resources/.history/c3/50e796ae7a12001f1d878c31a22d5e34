@@ -1,0 +1,5 @@
+package com.securityconepts.controller.config;
+
+public class ProjectSecurityConfig {
+
+}
